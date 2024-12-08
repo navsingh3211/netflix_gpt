@@ -1,7 +1,8 @@
+#rafce
 # Netflix gpt:
 1.) Create react app
 2.) configure tailwindCss
-3.)
+3.) npm i -D react-router-dom
 
 
 # Features
