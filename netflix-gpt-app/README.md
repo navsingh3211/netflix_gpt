@@ -1,11 +1,13 @@
 #rafce
 # Netflix gpt:
-1.) Create react app
-2.) configure tailwindCss
-3.) Header
-4.) Login form
-5.) Signup form
-
+- Create react app
+- configure tailwindCss
+- Header
+- Routing of App
+- Login form
+- Signup form
+- Form validation
+- useRef hook
 
 
 -->npm i -D react-router-dom
