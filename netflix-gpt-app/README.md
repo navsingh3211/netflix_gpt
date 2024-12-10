@@ -8,6 +8,13 @@
 - Signup form
 - Form validation
 - useRef hook
+- firebase(
+    (npm install -g firebase-tools)
+    firebase login
+    firebase init
+    (npm run build)
+    firebase deploy
+)
 
 
 -->npm i -D react-router-dom
